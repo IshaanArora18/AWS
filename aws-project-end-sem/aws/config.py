@@ -1,0 +1,6 @@
+customhost = "database-1.cfo6hq5bnwmq.us-east-1.rds.amazonaws.com"
+customuser = "root"
+custompass = "password"
+customdb = "studentdb_rds"
+custombucket = "thisismystudentbucket"
+customregion = "us-east-2"
